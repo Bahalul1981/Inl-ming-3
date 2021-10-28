@@ -4,7 +4,6 @@ function changemode() {
     var element = document.body;
     element.classList.toggle("black");
  }
-
 // Här är alla mina objekt som ligger i array
 
 const myQuize=[
