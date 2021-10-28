@@ -1,0 +1,84 @@
+
+html{
+  font-size: 80%;
+}
+
+  .black {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+  }
+ 
+  .maindiv{
+   
+    width: auto;
+    height: auto;
+    font-size: 16px;
+    display: list-item;
+    text-align: center;
+    
+    }
+    .seconddiv{
+     margin: 0 auto;
+      height: 280px;
+      width: 30%;
+      background-color: rgb(230, 196, 166);
+      padding: 12rem 23rem;
+      text-align: center;
+      border-radius: 1rem;
+      box-shadow: 0 1rem rgba(0,0,0,0.3);
+    }
+  
+    .changecolor{
+      
+      background-color: rgb(206, 197, 150);
+      padding: 0.5rem 1.2rem;
+      margin-left: 650px;
+      margin-top: 20px;
+      margin-bottom: 5px;
+      font-size: 1.3rem;
+     
+    }
+    input{
+      cursor: pointer;
+    }
+    .submit, .btn{
+      padding: 0.5rem 1.8rem;
+      outline: none;
+      font-size: 1.8rem;
+      font-size: 100;
+      display: block;
+      margin: auto;
+      background-color: rgb(158, 144, 75);
+      cursor: pointer;
+
+    }
+    #showScore{
+      font-size: 2rem;
+      background-color: rgb(206, 207, 202);
+      margin-top: 2rem;
+      padding: 2rem 2rem;
+      box-shadow:0 1rem rgba(0,0,0,0.3);
+    }
+    
+   
+    
+    #refrash{
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      color:black;
+      background-color: rgb(192, 191, 183);
+      margin-top: 3rem;
+      cursor: pointer;
+    }
+    #myDiv {
+      margin-top: 2px;
+      margin-bottom: 20px;
+      font-size: 1.8rem;
+      color: black;
+     
+      
+    }
+    
+  
+    
